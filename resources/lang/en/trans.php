@@ -26,7 +26,6 @@ return [
 'Send Message'=>'Send Message',
 'SUBSCRIBE OUR NEWSLETTER'=>'SUBSCRIBE OUR NEWSLETTER',
 'Subscribe'=>'Subscribe',
-'Developed by'=>'Developed by ',
 'CityArt'=>'CityArt',
 'current language'=>'العربية',
 
@@ -109,13 +108,17 @@ return [
 'Personal Profile'=>'Personal Profile',
 'Read More'=>'Read More',
 'article category'=>'Article Category ',
-'Developed By'=>'Developed By',
+'Developed By'=>'Developed Lovely By',
+
+'Video Title' => 'Video Title',
+'Video Sub Title' => 'Video Sub Title',
+
 ''=>'',
 ''=>'',
 ''=>'',
 ''=>'',
 
-'copyright' => 'All Rights Reserved for ... Company',
+'copyright' => 'All Rights Reserved for',
 
 ]
 

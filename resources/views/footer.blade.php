@@ -18,10 +18,10 @@
                     </div>
                 </div>
                 <div class="container copyright">
-                    <p>&copy; {{__('trans.copyright')}} | 
+                    <p> {{__('trans.copyright')}}   (الاسم) &copy; |
 					
 					<!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                    {{__('trans.Developed By')}} : <a href="https://cityart.my">CityArt</a></p>
+                    {{__('trans.Developed By')}} : <a href="https://c-web20.com">C-Web</a></p>
                 </div>
             </div>
         </div>

@@ -30,7 +30,6 @@ return [
 'Soon'=>'قريبا ...',
 'available on'=>'متوفر على',
 'soon on'=>'قريبا على',
-'Developed by'=>'تطوير ',
 'CityArt'=>'سيتي آرت',
 'current language'=>'العربية',
 
@@ -51,7 +50,7 @@ return [
 'slider2'=>'خدمات احترافية بأسعار مميزة',
 'Contact US'=>'تواصل معنا',
 'What We Offer'=>'ماذا نقدم',
-'Portofolio'=>'معرض الأعمال',
+'Portofolio'=>'أعمالي ',
 'View'=>'عرض',
 'View More Images'=>'عرض جميع الصور',
 'View More Services'=>'عرض جميع الخدمات',
@@ -68,7 +67,7 @@ return [
 'aboutdetails1'=>" فقرة تعريفية عن الشخص فقرة تعريفية عن الشخص فقرة تعريفية عن الشخص فقرة تعريفية عن الشخص فقرة تعريفية عن الشخص 
                     فقرة تعريفية عن الشخص فقرة تعريفية عن الشخص فقرة تعريفية عن الشخص فقرة تعريفية عن الشخص فقرة تعريفية عن الشخص 
                     فقرة تعريفية عن الشخص فقرة تعريفية عن الشخص فقرة تعريفية عن الشخص فقرة تعريفية عن الشخص فقرة تعريفية عن الشخص  ",
-'PortfolioSub'=>'من أهم أعمالنا السابقة',
+'PortfolioSub'=>'أعمالي السابقة',
 'Get In Touch'=>'لا تترد بالتواصل معنا ',
 'Our Blog'=>'أنشطتنا وأعمالنا',
 'Our Blog Sub'=>'آخر المقالات والنشاطات لشركتنا',
@@ -88,9 +87,9 @@ return [
 'article title'=>'عنوان المقال باللغة العربية',
 'Our Media Library'=>'معرض صورنا',
 'Explore Our Library of Media'=>'استعرض مكتبة صورنا',
-'Our Video Library'=>'مكتبة الفيديو',
-'Explore Our Library of Videos'=>'استعرض أبرز فيديوهاتنا',
-'Our Latest News & Articles'=>'آخر مقالاتنا وأخبارنا',
+'Our Video Library'=>'فيديوهاتي ',
+'Explore Our Library of Videos'=>'استعرض أبرز فيديوهاتي',
+'Our Latest News & Articles'=>'مدونتي',
 'Our News'=>'أخبارنا',
 'Contact Us'=>'تواصل معنا ',
 'Usefull Links'=>'روابط مفيدة',
@@ -108,20 +107,24 @@ return [
 'Tell me about your request'=>'فكرة قصيرة عن المشروع المطلوب',
 'Welcome to My Personal Page'=>'أهلاً بكم في صفحتي الشخصية',
 'Hello Im'=>'أنا محمد ..',
-'subtitle'=>'معلومات مختصرة عن المقال أو الفيديو',
+'subtitle'=>'معلومات مختصرة عن المقال ',
 
 'Send'=>'إرسال',
 'Personal Profile'=>'المدونة الشخصية',
 'Read More'=>'اقرأ المزيد',
 'article category'=>'تصنيف المقال',
-'Developed By'=>'تطوير',
+'Developed By'=>'صنع بحب من',
+
+'Video Title' => 'عنوان الفيديو',
+'Video Sub Title' => 'معلومات عن الفيديو',
+
 ''=>'',
 ''=>'',
 ''=>'',
 
 
 
-'copyright' => 'جميع الحقوق محفوظة لدى شركة ...',
+'copyright' => 'جميع الحقوق محفوظة لدى ',
 
 
 ]

@@ -239,7 +239,7 @@
 
 
 <!-- Banner Start -->
-<div class="banner wow zoomIn" data-wow-delay="0.1s">
+<!-- <div class="banner wow zoomIn" data-wow-delay="0.1s">
     <div class="container">
         <div class="section-header text-center">
             <p>{{__('trans.My Story')}}</p>
@@ -252,7 +252,7 @@
             <a class="btn" href="#portfolio">{{__('trans.Portofolio')}}</a>
         </div>
     </div>
-</div>
+</div> -->
 <!-- Banner End -->
 
 
@@ -328,11 +328,11 @@
                     <div class="team-text">
                         <h2> <a href="https://www.youtube.com/watch?time_continue=5&v=4Z9mUjtFJYY&ab_channel=ScenicRelaxation"
                                 target="_blank">
-                                {{__('trans.article title')}}
+                                {{__('trans.Video Title')}}
                             </a>
                         </h2>
                         <p>
-                            {{__('trans.subtitle')}}
+                            {{__('trans.Video Sub Title')}}
                         </p>
 
                     </div>
@@ -351,11 +351,11 @@
                     <div class="team-text">
                         <h2> <a href="https://www.youtube.com/watch?time_continue=5&v=4Z9mUjtFJYY&ab_channel=ScenicRelaxation"
                                 target="_blank">
-                                {{__('trans.article title')}}
+                                {{__('trans.Video Title')}}
                             </a>
                         </h2>
                         <p>
-                            {{__('trans.subtitle')}}
+                        {{__('trans.Video Sub Title')}}
                         </p>
 
                     </div>
